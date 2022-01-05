@@ -17,7 +17,7 @@ import { UserModule } from './components/user/user.module';
     // MongooseModule.forRootAsync({
     //   connectionName: 'mongodb1',
     //   useFactory: () => ({
-    //     uri: 'mongodb://106.14.237.78:27017',
+    //     uri: 'mongodb://',
     //     user:"root",
     //     authSource: 'admin',
     //     dbName: 'panzi',
